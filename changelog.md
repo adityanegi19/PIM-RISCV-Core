@@ -96,20 +96,6 @@ Validation performed using:
 
 ---
 
-### Repository Cleanup
-
-Repository converted into a standalone project for showcasing the PIM implementation.
-
-Changes include:
-
-- Removed inherited Git commit history.
-- Created independent Git repository.
-- Preserved original project license.
-- Added project-specific documentation.
-- Added benchmark applications and evaluation.
-
----
-
 ### Based On
 
 OpenHW Group CV32E40P RISC-V Core
